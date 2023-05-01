@@ -1,4 +1,6 @@
-# Define the Attributes class
+#!/bin/bash
+
+ Define the Attributes class
 class Attributes {
     # The contact method
     contact() {
@@ -32,7 +34,7 @@ class Attributes {
     }
 }
 
-# Create an instance of the Attributes class and call its methods
+ Create an instance of the Attributes class and call its methods
 attr=new Attributes
 attr.contact
 attr.life
