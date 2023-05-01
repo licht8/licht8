@@ -6,7 +6,7 @@ class Attributes {
     # The contact method
     contact() {
         discord="櫻井孝宏#8124"
-        telegram="t.me/rg_mechanic"
+        telegram="https://t.me/skdjdns"
         gmail="yehor.redhat@gmail.com"
         
         echo "$discord $telegram $gmail"
