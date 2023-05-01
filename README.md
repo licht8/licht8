@@ -40,4 +40,3 @@ attr=new Attributes
 attr.contact
 attr.life
 attr.coding
-```bash
