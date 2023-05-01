@@ -1,4 +1,3 @@
-<pre>
 ```bash
 
 #!/bin/bash
@@ -43,4 +42,3 @@ attr.contact
 attr.life
 attr.coding
 ```bash
-</pre>
