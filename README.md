@@ -38,3 +38,5 @@ attr=new Attributes
 attr.contact
 attr.life
 attr.coding
+```
+[![My Skills](https://skillicons.dev/icons?i=bash,py,mysql,wordpress,linux,)](https://skillicons.dev)
