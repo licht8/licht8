@@ -39,8 +39,9 @@ attr.contact
 attr.life
 attr.coding
 ```
--My Skills-
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=bash,mysql,linux,php,maven,wordpress)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,py,mysql,wordpress,linux)](https://skillicons.dev)
-
+# I'm also learning:
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,nginx)](https://skillicons.dev)
