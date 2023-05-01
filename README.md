@@ -49,6 +49,6 @@ attr.coding
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=licht8&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=licht8&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licht8&layout=compact&theme=chartreuse-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licht8&layout=compact&theme=transparent&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
