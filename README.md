@@ -1,5 +1,4 @@
 <pre>
-```bash
 #!/bin/bash
 
  Define the Attributes class
