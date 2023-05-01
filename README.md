@@ -45,3 +45,10 @@ attr.coding
 
 # I'm also learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,nginx)](https://skillicons.dev)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=licht8&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licht8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
