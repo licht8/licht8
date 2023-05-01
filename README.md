@@ -15,7 +15,7 @@ class Attributes {
     # The life method
     life() {
         langs=('English' 'Polish' 'Russian' 'Ukrainian')
-        nationalities=('Ukrainian')
+        nationality=('Ukrainian')
         age=18
         
         echo "${langs[*]} ${nationalities[*]} $age"
