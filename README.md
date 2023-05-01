@@ -4,10 +4,10 @@
   <a href="https://loremlte.space/">
     <img src="https://img.shields.io/badge/Blog-yellow?logo=linux&logoColor=black&style=for-the-badge" alt="Blog Badge"/>
   </a>
-  <a href="www.instagram.com/yehorcheg/">
+  <a href="https://www.instagram.com/yehorcheg/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/yehor_14">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
