@@ -39,7 +39,7 @@ attr.contact
 attr.life
 attr.coding
 ```
-# My Skills
+# My skills
 [![My Skills](https://skillicons.dev/icons?i=bash,mysql,linux,php,maven,wordpress)](https://skillicons.dev)
 
 
