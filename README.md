@@ -1,5 +1,5 @@
 <pre>
-
+'''bash
 #!/bin/bash
 
 #Define the Attributes class
@@ -41,5 +41,5 @@ attr=new Attributes
 attr.contact
 attr.life
 attr.coding
-
+'''bash
 <pre>
