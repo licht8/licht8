@@ -5,18 +5,18 @@
 class Attributes {
     # The contact method
     contact() {
-        discord="tekky#1810"
-        telegram="t.me/xtekky"
-        proton="xtekky@protonmail.com"
+        discord="櫻井孝宏#8124"
+        telegram="t.me/rg_mechanic"
+        gmail="yehor.redhat@gmail.com"
         
-        echo "$discord $telegram $proton"
+        echo "$discord $telegram $gmail"
     }
     
     # The life method
     life() {
-        langs=('French' 'German' 'Spanish' 'English')
-        nationalities=('German' 'Spanish' 'Korean')
-        age=17
+        langs=('English' 'Polish' 'Russian' 'Ukrainian')
+        nationalities=('Ukrainian')
+        age=18
         
         echo "${langs[*]} ${nationalities[*]} $age"
     }
@@ -24,14 +24,12 @@ class Attributes {
     # The coding method
     coding() {
         declare -A langs=(
-            ['expert']='python'
-            ['intermediate']='go js'
-            ['learning']='c c++ c# asm java'
+            ['intermediate']='bash'
+            ['learning']='c++ java python'
         )
-        specialities=('web/app reverse engineering' 'fullstack')
-        environnement=('vscode')
+        specialities=('computer network administrator' 'systems security')
         
-        echo "${langs[*]} ${specialities[*]} ${environnement[*]}"
+        echo "${langs[*]} ${specialities[*]}"
     }
 }
 
