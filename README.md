@@ -1,4 +1,4 @@
-```bash
+<pre>
 
 #!/bin/bash
 
@@ -41,4 +41,5 @@ attr=new Attributes
 attr.contact
 attr.life
 attr.coding
-```bash
+
+<pre>
