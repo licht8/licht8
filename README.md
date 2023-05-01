@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Define the Attributes class
 class Attributes {
     # The contact method
