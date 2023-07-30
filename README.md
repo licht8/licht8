@@ -40,11 +40,11 @@ attr.life
 attr.coding
 ```
 # My skills:
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,mysql,php,maven,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,mysql,maven,wordpress)](https://skillicons.dev)
 
 
 # I'm also learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,nginx)](https://skillicons.dev)
 
 ---
 
