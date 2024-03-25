@@ -44,7 +44,7 @@ attr.coding
 
 
 # I'm also learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,asm)](https://skillicons.dev)
 
 ---
 
